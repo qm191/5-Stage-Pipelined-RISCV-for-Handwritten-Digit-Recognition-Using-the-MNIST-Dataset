@@ -1,0 +1,20 @@
+0.7
+2020.2
+Mar 19 2026
+19:50:51
+D:/Vivado/MATLAB_PRED/cosim_work/tb_cosim.v,1782753131,verilog,,,,tb_cosim,,,,,,,,
+D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/EX_MEM_REG.v,1782402480,verilog,,D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/MEM_WB_REG.v,,EX_MEM_REG,,,,,,,,
+D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/Hazard_unit.v,1781432829,verilog,,D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/instruction_memory.v,,Hazard_unit,,,,,,,,
+D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/ID_EX_REG.v,1781432831,verilog,,D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/EX_MEM_REG.v,,ID_EX_REG,,,,,,,,
+D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/IF_ID_REG.v,1781432832,verilog,,D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/ID_EX_REG.v,,IF_ID_REG,,,,,,,,
+D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/MEM_WB_REG.v,1782998631,verilog,,D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/Hazard_unit.v,,MEM_WB_REG,,,,,,,,
+D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/alu.v,1782998567,verilog,,D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/register_file.v,,alu,,,,,,,,
+D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/branch_unit.v,1781432818,verilog,,D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/instruction_fetch_unit.v,,branch_unit,,,,,,,,
+D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/control_unit.v,1782998483,verilog,,D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/datapath.v,,control_unit,,,,,,,,
+D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/data_memory_dp.v,1782998704,verilog,,D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/top.v,,data_memory_dp,,,,,,,,
+D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/datapath.v,1782998411,verilog,,D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/alu.v,,data_path,,,,,,,,
+D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/immediate_generator.v,1781432827,verilog,,D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/branch_unit.v,,immediate_generator,,,,,,,,
+D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/instruction_fetch_unit.v,1782998607,verilog,,D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/IF_ID_REG.v,,instruction_fetch_unit,,,,,,,,
+D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/instruction_memory.v,1782998721,verilog,,D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/data_memory_dp.v,,instruction_memory,,,,,,,,
+D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/register_file.v,1782998540,verilog,,D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/immediate_generator.v,,register_file,,,,,,,,
+D:/Vivado/RISC-V_Modified_MNIST_CodeGoc/top.v,1782998306,verilog,,D:/Vivado/MATLAB_PRED/cosim_work/tb_cosim.v,,top,,,,,,,,
