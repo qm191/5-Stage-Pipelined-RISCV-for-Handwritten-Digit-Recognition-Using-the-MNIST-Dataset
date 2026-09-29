@@ -1,0 +1,5 @@
+# do run.do
+#   basic_pass_through_test  ALU_store_test           load_use_hazard_test     ALU_forwarding_test      store_data_hazard_test   control_hazard_test      load_then_add_test       
+#  clean
+# error deleting "transcript": permission denied
+#  exit

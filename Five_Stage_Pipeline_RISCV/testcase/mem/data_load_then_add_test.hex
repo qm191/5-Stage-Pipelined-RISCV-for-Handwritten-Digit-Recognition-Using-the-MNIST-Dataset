@@ -1,0 +1,4 @@
+
+0000000f    // Index 0 (Addr 0x00): Input  = 15
+00000019    // Index 1 (Addr 0x04): Weight = 25
+00000000    
